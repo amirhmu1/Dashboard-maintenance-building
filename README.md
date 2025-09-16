@@ -34,4 +34,4 @@ Finite State Machines (FSMs) – Rule-based state transitions.
 Stochastic Petri Nets (SPN) – For probabilistic, timed, and concurrent states.
 Agent-Based Models – Decentralized multi-state system maintenance.
 Resilience Optimization Algorithms – Ensuring recovery after disruptions.
-![نمایش تصویر پروژه](images/al.png)
+   !(al.png)
